@@ -1,6 +1,6 @@
 # mandmore: magnet link and more. 
 
-*[To Julian][1]*
+*[To Julian Assange][1]*
 
 A CLI app written in Rust that takes an info hash and outputs the magnet link and adds the latter to your transmission client's download list
 
