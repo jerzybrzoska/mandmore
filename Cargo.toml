@@ -1,0 +1,14 @@
+[package]
+name = "mandmore"
+version = "0.1.0"
+authors = ["jerzy"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+home = "0.5.3"
+error-chain = "0.12.4"
+reqwest = "0.11.3"
+tempfile = "3.2.0"
+tokio = { version = "1.6.0", features = ["full"] }
