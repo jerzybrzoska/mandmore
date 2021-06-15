@@ -1,4 +1,7 @@
-# mandmore: magnet link and more. A CLI app written Rust that takes an info hash and outputs the magnet link and adds the latter to your transmission client
+# mandmore: magnet link and more. 
+
+A CLI app written Rust that takes an info hash and outputs the magnet link and adds the latter to your transmission client's download list
+
 ## Installation
 ```
 git clone https://github.com/jerzybrzoska/mandmore.git 
